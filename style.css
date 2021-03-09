@@ -154,7 +154,7 @@ main{
 .pratham-thread ul li, .sakshi-thread ul li, .sans-thread ul li{
     list-style-type: none;
     display: inline-block;
-    color: var(--primary-color);
+    color: var(--secodary-color);
     margin: 15px 40px 0 40px;
 }
 .user-tweet{
